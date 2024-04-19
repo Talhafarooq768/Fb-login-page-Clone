@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.email{
+    padding-left: 43.5%;
+    color: white;
+} 
+.tex{
+    /* display: flex; */
+    position: absolute;
+    width: 13%;
+    border: none;
+
+    margin-top: 30px;
+    margin-left: 55%;
+
+}
+.password{
+    padding-left: 6%;
+    padding-top: 2px;
+    font-size: large;
+    height: 25px;
+
+}
+.pass{
+    position: absolute;
+    width: 13%;
+    border: none;
+    height: 25px;
+
+    margin-top: 30px;
+    margin-left: 69%;    
+}
+
+.button-login{
+    position: relative;
+    margin-left: 6.2%;
+    margin-top: 29px;
+    width: 60px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 27px;
+    background-color: rgb(222, 73, 73);
+    color: aliceblue;
+
+}
+.fa-regular{
+    padding-top: 14px;
+    font-size: 35px;
+ padding-left: 100px;
+ cursor: pointer;
+}
+
+.create{
+    padding-left: 60%;
+}
+.quick{
+padding-left:61% ;
+}
+.spa{
+    margin-left: 58%;
+}
+.text-1{
+margin-left: 10px;
+
+}
+.text-1::placeholder{
+    color: black;
+    padding-left: 2px;
+}
+.btn{
+    width: 55;
+    height: 35px;
+    margin-right: 30px;
+      
+}
+
+.nmm{
+    margin-left: 59%;
+    margin-top: 15px;
+    width: 25%;
+    padding-left: 2px;
+}
+.nmm::placeholder{
+    color: black;
+
+}
+.birth{
+    padding-left:59% ;
+    padding-top: 8px;
+    font-size: larger;
+
+}
+
+.birthday{
+    margin-left: 59%;
+    width: 20%;
+}
+
+.gender{
+    font-size: larger;
+    padding-left: 59%;
+    padding-top: 10px;
+}
+.radi{position: relative;
+    margin-left: 10px;
+}
+
+.m-1{
+    display:flex;
+ justify-content: end;
+    padding-right: 19%;
+    padding-top: 0px;
+}
+
+.last{
+    padding-left: 59%;
+}
+.last a{
+    color: purple;
+}
+.btn-1{
+    background-color: green;
+    border: none;
+    width: 30%;
+    height: 35px;
+    font-size: larger;
+    border-radius: 0.5rem;
+    margin-left: 59%;
+}
+
+.btn-1 a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.btn-1 a:hover{
+    color: black;
+}
+
+
+.map-1{
+    position: absolute;
+    width: 50%;
+    height: 370px;
+    margin-top:110px;
+    margin-left: 25px;
+    border-radius: 2rem;
+} 
+
+.top-1{
+    color: rgb(104, 104, 196);
+    position: absolute;
+    margin-left: 80px;
+    font-size:larger;
+    font-weight: bolder;
+    padding-top: 40px;
+    font-family: sans-serif;
+}
+.center{
+    display: flex;
+    justify-content: center;
+
+}
